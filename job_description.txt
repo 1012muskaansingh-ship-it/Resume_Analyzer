@@ -1,0 +1,62 @@
+SENIOR BACKEND ENGINEER
+
+Location: Remote / San Francisco, CA
+Experience Level: 5-8 years
+Employment Type: Full-time
+
+ABOUT THE COMPANY
+We are a fast-growing FinTech company revolutionizing digital payments and financial services. Our platform serves millions of users worldwide with cutting-edge technology and innovative solutions.
+
+JOB DESCRIPTION
+We are seeking an experienced Senior Backend Engineer to join our core infrastructure team. You'll be responsible for designing, building, and maintaining scalable backend systems that power our platform.
+
+RESPONSIBILITIES
+• Design and implement scalable microservices architecture
+• Develop robust RESTful APIs and real-time systems
+• Optimize database queries and implement caching strategies
+• Lead code reviews and mentor junior engineers
+• Collaborate with product and DevOps teams on system design
+• Implement automated testing and CI/CD pipelines
+• Participate in on-call rotation and incident response
+• Document technical decisions and maintain architectural consistency
+
+REQUIRED QUALIFICATIONS
+• 5+ years of professional software development experience
+• Strong proficiency in one or more backend languages (Python, Go, Java, or similar)
+• Solid understanding of microservices architecture and distributed systems
+• Experience with relational and NoSQL databases
+• Familiarity with containerization (Docker) and orchestration (Kubernetes)
+• Knowledge of cloud platforms (AWS, GCP, or Azure)
+• Experience with monitoring, logging, and observability tools
+• Strong problem-solving skills and attention to detail
+• Excellent communication and collaboration abilities
+• BS/MS in Computer Science or equivalent professional experience
+
+PREFERRED QUALIFICATIONS
+• Experience with event-driven architectures and message queues (Kafka, RabbitMQ)
+• Knowledge of GraphQL
+• Familiarity with Infrastructure as Code (Terraform, CloudFormation)
+• Experience with Agile/Scrum methodologies
+• Open source contributions
+• Experience in fintech or high-security environments
+• Performance optimization and benchmarking expertise
+
+TECHNICAL STACK
+• Backend: Python, Go, Java
+• Databases: PostgreSQL, MongoDB, Redis
+• Cloud: AWS (EC2, RDS, S3, Lambda)
+• Containerization: Docker, Kubernetes
+• CI/CD: GitLab CI, Jenkins
+• Monitoring: Prometheus, Grafana, ELK Stack
+
+WHAT WE OFFER
+• Competitive salary package: $150,000 - $250,000
+• Comprehensive health insurance
+• Remote work flexibility
+• Professional development opportunities
+• Stock options
+• Unlimited PTO
+• Collaborative and innovative team environment
+
+WHY SHOULD YOU APPLY?
+Work on challenging problems at scale, collaborate with talented engineers, and have a direct impact on our product and company growth. We value innovation, quality, and continuous learning.

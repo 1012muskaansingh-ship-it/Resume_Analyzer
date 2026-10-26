@@ -1,0 +1,85 @@
+
+MOHAMMAD UZAIF
+B.Tech Computer Science (AI & ML)  •  1st Year  •  Vishwakarma Institute of Technology, Pune
+?  +91-9881893074   •   ?  uzairmohammed269@gmail.com   •   Nagpur, Maharashtra
+linkedin.com/in/mohammad-uzaif-b26888367   •   github.com/Uzaif9761
+Educational Qualifications
+Degree / Exam
+Institution / Board
+Year
+Score / Grade
+B.Tech – Computer Science (AI-ML)
+Vishwakarma Institute of Technology, Pune
+2029
+8.75 CGPA (Sem1)
+Higher Secondary Certificate (HSC) – Science
+Prerna International School, Nagpur
+2025
+76.4%
+Secondary School Certificate (SSC)
+Bhavans BP Vidya Mandir, Nagpur
+2023
+93%
+Professional Certifications
+Course / Certification
+Platform / Organisation
+Year
+Key Topics Covered
+Google's 5-Day Agentic AI Workshop
+Kaggle
+Dec 2025
+Agentic AI, LLM agents, multi-step reasoning
+Frontend Development
+Udemy
+Mar 2026
+React, JavaScript, CSS, SPA development
+Data Visualisation , AI , Deep Learning , Python Introduction
+Infosys Springboard
+Nov 2025
+Charts, dashboards, data storytelling
+Python using AI
+AI for Techies
+Oct 2025
+Python fundamentals, AI-assisted coding
+Hackathon / Projects Undertaken
+
+Hackathon : Blue_Bit PCCOE  Jedi Code Compliance System   |   Python, AI/ML
+
+• AI auditing system for detecting bias and ensuring accountability in datasets used for high-stakes AI applications such as hiring and loan eligibility.
+• Analyses training data pipelines to flag biased patterns and generate fairness compliance reports.
+• Promotes ethical and responsible AI in life-critical decision-making systems.
+
+Hackathon : Xenia’26 PICT Sentiment Analysis from YouTube Comments   |   TensorFlow, YouTube API, Next.js
+
+• Problem Solved: Classifies real-time YouTube comments into 6 distinct emotions based on viewer experience.
+• Technologies used : Integrates YouTube Data API for live comment extraction and TensorFlow for NLP-based emotion detection.
+• Deliverables & My Role : Visualises sentiment distribution via a Next.js-powered interactive dashboard.
+
+
+Tourist Booking System   |   React, JavaScript, CSS, HTML
+• Single-page application (SPA) for exploring and summarising Indian tourism destinations.
+• Built with React for a dynamic, responsive user interface with smooth navigation and booking flows.
+
+Students Marks Analyser   |   NumPy, Pandas
+• Data analytics dashboard for visualising and analysing mid-semester student marks.
+• Uses NumPy and Pandas for data processing and graphical academic performance insights.
+
+Technical Skills
+Programming Languages
+Python, C++, JavaScript
+Libraries & Frameworks
+React, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow
+Web Technologies
+HTML, CSS, JavaScript, Next.js, React (SPA)
+Data & Visualisation
+Data Analytics, Technical Insights from raw data
+Tools & Platforms
+VS Code, Jupyter Notebook, Git, GitHub, Kaggle
+
+Achievements
+• 2nd Runner Up – Blue_Bit National Hackathon, PCCOE
+
+Hobbies & Interests
+• Reading Self-Improvement Books
+• Tourism & Travel
+• Physical Games & Sports
